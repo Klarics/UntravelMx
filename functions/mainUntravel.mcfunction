@@ -1,0 +1,1 @@
+execute @s ~ ~ ~ function server/active
